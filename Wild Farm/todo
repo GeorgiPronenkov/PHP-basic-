@@ -1,0 +1,17 @@
+class Main
+abstract class Food
+class Vegetable extends Food
+class Meat extends Foodmammal
+class Zebra extends Mammal
+class Cat extends Felime
+class Tiger extends Felime
+class Animal_Factory
+
+
+Tiger Tom 167.7 Asia
+Vegetable 1
+End
+ROAAR!!!
+
+Tigers are not eating that type of food!
+Tiger[Tom, 167.7, Asia, 0]
