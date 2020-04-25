@@ -6,12 +6,18 @@
     <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
-    <div class="container">
+    <div id="container">
         <header>
             <h1>SHOUT IT Shoutbox</h1>
         </header>
-        <div class="shouts">
+        <div id="shouts">
             <ul>
+                <li class="shout"><span>10:15PM - </span>Joro: Greetings!</li>
+                <li class="shout"><span>10:15PM - </span>Joro: Greetings!</li>
+                <li class="shout"><span>10:15PM - </span>Joro: Greetings!</li>
+                <li class="shout"><span>10:15PM - </span>Joro: Greetings!</li>
+                <li class="shout"><span>10:15PM - </span>Joro: Greetings!</li>
+                <li class="shout"><span>10:15PM - </span>Joro: Greetings!</li>
                 <li class="shout"><span>10:15PM - </span>Joro: Greetings!</li>
             </ul>
         </div>
