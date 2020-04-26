@@ -21,8 +21,8 @@
             <ul>
                 <?php while ($row = mysqli_fetch_assoc($shouts)) : ?>
                     <li class="shout">
-                        <span><?php echo $row['time']?> - </span>:
-                        <span><?php echo $row['user']?>: </span>
+                        <span><strong><?php echo $row['time']?>:</strong></span>
+                        <span><strong><?php echo $row['user']?>:</strong> </span>
                         <span><?php echo $row['message']?> </span>
                     </li>
                 <?php endwhile; ?>
