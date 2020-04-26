@@ -9,7 +9,9 @@ body {
     line-height: 1.5em;
     background: #f4f4f4;
 }
-
+form {
+    text-align: center;
+}
 #container {
     background: #333333;
     margin: 50px auto;
@@ -71,6 +73,12 @@ ul li span:nth-child(2){
     border-radius: 20px;
 }
 
+.error {
+    background: red;
+    color: white;
+    padding: 5px;
+    margin-bottom: 20px;
+}
 @media only screen and (max-width: 768px) {
     #input input[type='text'] {
         width: 98%;
