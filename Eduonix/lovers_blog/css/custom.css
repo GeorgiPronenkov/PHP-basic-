@@ -170,4 +170,23 @@ h6, .h6 {
 .logo {
     float: left;
     margin-right: 15px;
+
+}
+.logo img {
+    width: 150px;
+}
+.readmore {
+    display: block;
+    text-align: center;
+    padding: 5px;
+    background: #f4f4f4;
+    margin-top: 10px;
+    color: #666;
+}
+
+.readmore:hover {
+    background: #cccccc;
+    color: #666;
+    text-decoration: none;
+    border-radius: 10px;
 }
