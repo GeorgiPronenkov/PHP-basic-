@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="shoutit@localhost" uuid="23c47ee0-12fe-4d22-97e7-50d0ebf6c0ef">
+    <data-source source="LOCAL" name="MySQL - @localhost" uuid="23c47ee0-12fe-4d22-97e7-50d0ebf6c0ef">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/shoutit</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
     </data-source>
   </component>
 </project>
